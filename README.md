@@ -46,6 +46,11 @@ This project implements a **32-bit RISC processor** using Verilog in RTL design 
 3. Run testbench
 4. View waveform
 
+## 📈 Waveforms
+
+![ALU](waveforms/alu_waveform.png)
+![Factorial](waveforms/factorial_waveform.png)
+
 ## 👨‍💻 Author
 
 Vedant Saxena
